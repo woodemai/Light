@@ -1,0 +1,3 @@
+слоган - "Let there be light"
+слоган2 - "Better lighting"
+название - "luminous flux+"
